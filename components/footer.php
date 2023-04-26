@@ -1,3 +1,3 @@
 <footer class="footer">
-   &copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!
+   &copy; copyright @ <?= date('Y'); ?> by <span>Đặng Quang Khánh An</span> | all rights reserved!
 </footer>
